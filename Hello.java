@@ -1,7 +1,7 @@
-lass
+class
 public static void main(String args[])
 {
-System.out.println("Hello Repo231546");
+System.out.println("Hello Repo23154444446");
 }
 }
 
